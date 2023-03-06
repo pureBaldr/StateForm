@@ -1,0 +1,22 @@
+{
+  "name": "@dadmor/pure-baldr-state-form",
+  "version": "0.0.1",
+  "description": "Taiwind UiKit wrapper",
+  "license": "MIT",
+  "repository": "pureBaldr/state-form",
+  "main": "index.ts",
+  "keywords": [
+    "light",
+    "less 1 kb",
+    "npm",
+    "package",
+    "react",
+    "uikit",
+    "tailwind",
+    "typescript",
+    "state form"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.2.0"
+  }
+}
