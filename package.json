@@ -1,6 +1,6 @@
 {
   "name": "@dadmor/pure-baldr-state-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Taiwind UiKit wrapper",
   "license": "MIT",
   "repository": "pureBaldr/state-form",
@@ -18,5 +18,8 @@
   ],
   "devDependencies": {
     "@types/react": "^18.2.0"
+  },
+  "dependencies": {
+    "@dadmor/pure-baldr-theme-states": "^0.0.1"
   }
 }

@@ -1,4 +1,4 @@
-import { deepSet, deepGet } from "./deep";
+import { deepSet, deepGet } from "@dadmor/pure-baldr-theme-states";
 /* 
   TODO:
   form array type always is: ['string: field key', {form data state}, formDataSetState()] 
